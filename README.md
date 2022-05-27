@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jimmyyoung42
+- 👋 Hi, I’m James Young 
 - 👀 I’m interested in ... advanced Java script systems 
 - 🌱 I’m currently learning ... javascript, css, python
 - 💞️ I’m looking to collaborate on ...
