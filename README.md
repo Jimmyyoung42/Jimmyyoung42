@@ -1,7 +1,7 @@
 - 👋 Hi, I’m James Young 
 - 👀 I’m interested in application development 
 - 🌱 I’m currently learning ... javascript, css, python, Ruby 
-- 💞️ I’m looking to collaborate on ... any start-up and any back end application development, specificly online betting development 
+- 💞️ I’m looking to collaborate on ... any start-up and any back end application development, specifically online betting development 
 - 📫 How to reach me ... email, tweet or LINKEDLN
 
 <!---
